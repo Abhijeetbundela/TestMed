@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/black_home"
+        android:menuCategory="secondary"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/tab2Fragment"
+        android:icon="@drawable/ic_baseline_brightness_5_24"
+        android:menuCategory="secondary"
+        android:title="@string/tab_1" />
+
+    <item
+        android:id="@+id/tab3Fragment"
+        android:icon="@drawable/ic_baseline_brightness_5_24"
+        android:menuCategory="secondary"
+        android:title="@string/tab_2" />
+
+</menu>
